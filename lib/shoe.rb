@@ -8,7 +8,7 @@ class Shoe
   def cobble=(cobble)
     @cobble="New"
   end
-  
+
   def cobble
     @cobble
     puts "Your shoe is as good as new!"
