@@ -6,7 +6,7 @@ class Shoe
   end
 
   def cobble=(cobble)
-    @cobble="New"
+    puts "new"
   end
 
   def cobble
